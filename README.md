@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hola 👋
 
-<!--
-**Wendo55/Wendo55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 **About Me**:
+Soy estudiante de **7° semestre de Ingeniería Informática** en el **TEC Monclova**. He trabajado en diversos proyectos y continúo aprendiendo nuevas tecnologías para mejorar mis habilidades.
 
-Here are some ideas to get you started:
+## 🖥️ Lenguajes de Programación y Herramientas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes**: C#, Visual Basic, PHP
+- **Gestores de Bases de Datos**: SQL Server, y MariaDB
+- **Tecnologías y Herramientas**:
+  - C#
+  - JavaScript
+  - PHP
+  - .NET
+  - Node.js
+  - Bootstrap
+  - Apache
+  - Microsoft SQL Server
+  - MySQL
+  - SQLite
+  - MariaDB
+  - GIT
+  - Arduino
+
+🌐 **Socials**:
+- [correo](lesleetrejo4@gmail.com)
+- [facebook](https://www.facebook.com/share/1BckBg1hHR/)
+
+
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wendo55&show_icons=true&count_private=true)
