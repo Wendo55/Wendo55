@@ -30,3 +30,7 @@ Soy estudiante de **7° semestre de Ingeniería Informática** en el **TEC Moncl
 ## 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wendo55&show_icons=true&count_private=true)
+
+## 📈 Lenguajes más utilizados:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wendo55&layout=compact&langs_count=10&theme=default)
