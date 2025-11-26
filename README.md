@@ -1,5 +1,5 @@
 # Hola 👋
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 💫 **About Me**:
 Soy estudiante de **7° semestre de Ingeniería Informática** en el **TEC Monclova**. He trabajado en diversos proyectos y continúo aprendiendo nuevas tecnologías para mejorar mis habilidades.
 
